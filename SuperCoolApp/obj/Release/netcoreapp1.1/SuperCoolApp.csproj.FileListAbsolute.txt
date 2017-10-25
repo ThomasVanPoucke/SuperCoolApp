@@ -1,0 +1,9 @@
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Release\netcoreapp1.1\SuperCoolApp.deps.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Release\netcoreapp1.1\SuperCoolApp.runtimeconfig.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Release\netcoreapp1.1\SuperCoolApp.runtimeconfig.dev.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Release\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Release\netcoreapp1.1\SuperCoolApp.pdb
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Release\netcoreapp1.1\SuperCoolApp.csprojResolveAssemblyReference.cache
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Release\netcoreapp1.1\SuperCoolApp.AssemblyInfo.cs
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Release\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Release\netcoreapp1.1\SuperCoolApp.pdb

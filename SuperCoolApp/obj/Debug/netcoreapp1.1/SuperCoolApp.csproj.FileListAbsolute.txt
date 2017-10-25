@@ -1,0 +1,10 @@
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.AssemblyInfo.cs
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.deps.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.dev.json
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.pdb
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\thoma\Documents\Visual Studio 2017\Projects\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.pdb
