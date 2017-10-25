@@ -15,7 +15,7 @@ namespace SuperCoolApp
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Continuousss", "Integration","is","super","Pretty","Neat!","-)" };
+            return new string[] { "Continuouss", "Integration","is","super","Pretty","Neat!","-)" };
         }
     }
 }
