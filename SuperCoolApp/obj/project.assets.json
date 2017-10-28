@@ -9667,10 +9667,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\Documents\\Visual Studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\SuperCoolApp.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\documents\\visual studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\SuperCoolApp.csproj",
       "projectName": "SuperCoolApp",
-      "projectPath": "C:\\Users\\thoma\\Documents\\Visual Studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\SuperCoolApp.csproj",
-      "outputPath": "C:\\Users\\thoma\\Documents\\Visual Studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\obj\\",
+      "projectPath": "C:\\Users\\thoma\\documents\\visual studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\SuperCoolApp.csproj",
+      "outputPath": "C:\\Users\\thoma\\documents\\visual studio 2017\\Projects\\SuperCoolApp\\SuperCoolApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
