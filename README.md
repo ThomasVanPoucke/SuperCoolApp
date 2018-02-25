@@ -8,7 +8,7 @@ This website contains summaries of several board games.
 
 When making changes it's possible to see the effects of your changes immediately after saving your changes. This is called 'watch mode'.
 
-This is how you host the website in 'watch mode'.
+This is how you host the website in watch mode.
 
 Open a terminal in the project directory and start the ASP.NET Core server
 
